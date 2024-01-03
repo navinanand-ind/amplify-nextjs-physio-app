@@ -1,0 +1,8 @@
+template-file-path: template-navin-physio.yaml
+parameters:
+  AuthRoleName: amplify-newphysioapp-dev-193510-authRole
+  DeploymentBucketName: amplify-newphysioapp-dev-193510-deployment
+  UnauthRoleName: amplify-newphysioapp-dev-193510-unauthRole
+tags:
+  user:Application: newphysioapp
+  user:Stack: dev
